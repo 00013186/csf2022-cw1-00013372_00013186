@@ -1,0 +1,9 @@
+This game was upgraded and changes certain data types and syntax
+
+We was use
+1. Constants instead of magic numbers and global variebles  
+2. There was divided into three modules to reduce the memory consuption
+3. Interface was updated for coffartble gaming for user
+4. We used the new syntax sugar of New version of Python3.10.5 
+    "match cases" (anology of "switch case" in 'C' similar languages)
+5. There was used Procedural Oriented Programming
